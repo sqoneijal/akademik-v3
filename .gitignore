@@ -1,0 +1,4 @@
+backend/vendor
+backend/writable
+backend/app/Config/Database.php
+frontend/node_modules
